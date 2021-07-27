@@ -1,8 +1,8 @@
 .app-wrapper {
-  display:grid;
+  display: grid;
   width: 800px;
- 
-    grid-template-areas: 
+
+  grid-template-areas:
     "h h"
     "n c";
   grid-template-rows: 60px 1fr;
@@ -10,29 +10,4 @@
   /* grid-gap: 10px */
 }
 
-.header {
-  grid-area: h;
-  background-color:rgb(224, 158, 221)
-
-}
-
-.header img{
-  width: 50px;
-}
-
-.nav {
-  grid-area: n;
-  background-color: rgb(241, 106, 185);
-}
-
-.content {
-  grid-area: c;
-  background-color: rgb(53, 189, 53);
-}
-
-.content img{
-  width: 500px;
-  
-  
-
-}
+;

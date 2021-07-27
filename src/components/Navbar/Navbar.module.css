@@ -1,0 +1,13 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(241, 106, 186);
+    color: rgb(253, 252, 252);
+};
+
+ /* //whats the problem with item?? .local doesnt work without that .item// */
+.item {
+    color: rgb(226, 217, 233);
+}
+.local {
+    color: rgb(97, 48, 161);
+}

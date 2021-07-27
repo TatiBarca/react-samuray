@@ -1,0 +1,17 @@
+.content {
+    grid-area: c;
+    background-color: rgb(53, 189, 53);
+    color: honeydew;
+}
+
+.content img {
+    width: 500px
+}
+
+.posts {
+    color: rgb(173, 81, 20);
+}
+
+.it {
+    color: rgb(186, 189, 33);
+}
