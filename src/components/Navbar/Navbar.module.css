@@ -1,13 +1,13 @@
 .nav {
     grid-area: n;
     background-color: rgb(241, 106, 186);
-    color: rgb(253, 252, 252);
+    color: green;
 };
+/* why .local doesnt work without .kgkgckgc or only if i write color on .nav only i cAN CHANGE THE COLOR OF .local */
+.kgkgckgc {
 
- /* //whats the problem with item?? .local doesnt work without that .item// */
-.item {
-    color: rgb(226, 217, 233);
 }
+
 .local {
-    color: rgb(97, 48, 161);
+    color: rgb(116, 50, 116);
 }

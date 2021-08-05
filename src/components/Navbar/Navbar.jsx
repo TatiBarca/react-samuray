@@ -2,8 +2,8 @@ import React from 'react';
 import s from'./Navbar.module.css';
 
 const Navbar = () => {
-    return <nav className={s.nav}>
-        <div className={s.local}>
+    return <nav className={s.nav}>  
+        <div className={s.local}>                                                       
             <a>Profile</a>
         </div>
         <div className={s.local}>
