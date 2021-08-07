@@ -1,13 +1,21 @@
 .nav {
     grid-area: n;
     background-color: rgb(241, 106, 186);
-    color: green;
-};
-/* why .local doesnt work without .kgkgckgc or only if i write color on .nav only i cAN CHANGE THE COLOR OF .local */
-.kgkgckgc {
-
+    color: rgb(69, 226, 69);
+    padding: 15px;
 }
 
-.local {
-    color: rgb(116, 50, 116);
+
+
+/* why .local doesnt work without .kgkgckgc or only if i write color on .nav only i cAN CHANGE THE COLOR OF .local */
+.kgkgckgc  {
+    
+}
+
+.local a {
+    color: rgb(247, 241, 247);
+    text-decoration: none;
+}
+.local a.activeLink {
+    color: rgb(227, 240, 44);
 }
