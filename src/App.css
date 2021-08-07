@@ -1,4 +1,4 @@
-.app-wrapper {
+.app_wrapper {
   display: grid;
   width: 800px;
 
@@ -10,4 +10,11 @@
   /* grid-gap: 10px */
 }
 
-;
+.app_wrapper_content {
+  grid-area: c;
+  background-color: rgb(53, 189, 53);
+  color: honeydew;
+}
+.app_wrapper_content img {
+  width: 500px
+}
