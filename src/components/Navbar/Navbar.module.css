@@ -5,17 +5,14 @@
     padding: 15px;
 }
 
-
-
 /* why .local doesnt work without .kgkgckgc or only if i write color on .nav only i cAN CHANGE THE COLOR OF .local */
-.kgkgckgc  {
-    
-}
+.kgkgckgc {}
 
 .local a {
     color: rgb(247, 241, 247);
     text-decoration: none;
 }
+
 .local a.activeLink {
     color: rgb(227, 240, 44);
 }
